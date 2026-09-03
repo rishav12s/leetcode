@@ -20,8 +20,8 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 4 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | Two Pointers |
 | 5 | 3Sum Closest | [LC 16](https://leetcode.com/problems/3sum-closest/) | Two Pointers |
 | 6 | Triplets with Smaller Sum | — | Two Pointers |
-| 7 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | Dutch National Flag |
-| 8 | Merge Sorted Array | [LC 88](https://leetcode.com/problems/merge-sorted-array/) | Three Pointers |
+| 7 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | Dutch National Flag / Two Pointers |
+| 8 | Merge Sorted Array (No Extra Space) | [LC 88](https://leetcode.com/problems/merge-sorted-array/) | Three Pointers |
 
 ---
 
