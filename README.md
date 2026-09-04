@@ -27,6 +27,7 @@ The goal of this repository is to document my DSA journey, understand the underl
 |---|---|---|---|
 | 1 | Max Sum Subarray of size K | [GG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Sliding Window (Fixed Size) |
 | 2 | Minimum Size Subarray Sum | [LC 209](https://leetcode.com/problems/minimum-size-subarray-sum/) | Sliding Window (Variable Size) |
+| 3 | Longest Substring with K Uniques | [GG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Sliding Window (Variable Size) |
 
 ---
 
