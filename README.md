@@ -29,7 +29,7 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 2 | Minimum Size Subarray Sum | [LC 209](https://leetcode.com/problems/minimum-size-subarray-sum/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/2.Minimum%20Size%20Subarray%20Sum%20LC%20209.cpp) |
 | 3 | Longest Substring with K Uniques | [GG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/3.Longest%20Substring%20with%20K%20Uniques%20GG.cpp) |
 | 4 | Fruit Into Baskets | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/4.Fruit%20Into%20Baskets%20LC%20904.cpp) |
-| 5 | Longest Substring Without Repeating Characters | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/5.Longest%20Substring%20Without%20Repeating%20Characters%20LC%203.cpp%20Into%20%20LC%203.cpp) |
+| 5 | Longest Substring Without Repeating Characters | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/5.Longest%20Substring%20Without%20Repeating%20Characters%20LC%203.cpp) |
 
 ---
 
