@@ -5,7 +5,7 @@ class Solution {
 public:
     int longestKSubstr(string &s, int k) {
         int n=s.size(),low=0,high=0,res=INT_MIN,len=0;
-        map <char,int> f;
+        unordered_map <char,int> f;
         for(high=0;high<n;high++)
         {
             f[s[high]]++;
