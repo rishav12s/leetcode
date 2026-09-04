@@ -4,8 +4,6 @@ My collection of **LeetCode solutions in C++**, organized by problem-solving pat
 
 The goal of this repository is to document my DSA journey, understand the underlying patterns, and gradually build a solid problem-solving foundation.
 
-> Currently focusing on **Two Pointers** and related array patterns.
-
 ---
 
 ## 📂 Problems Solved
@@ -19,9 +17,16 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 3 | Squares of a Sorted Array | [LC 977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Two Pointers |
 | 4 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | Two Pointers |
 | 5 | 3Sum Closest | [LC 16](https://leetcode.com/problems/3sum-closest/) | Two Pointers |
-| 6 | Triplets with Smaller Sum | — | Two Pointers |
+| 6 | Triplets with Smaller Sum | [GG](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Two Pointers |
 | 7 | Sort Colors | [LC 75](https://leetcode.com/problems/sort-colors/) | Dutch National Flag / Two Pointers |
 | 8 | Merge Sorted Array (No Extra Space) | [LC 88](https://leetcode.com/problems/merge-sorted-array/) | Three Pointers |
+
+### Sliding Window
+
+| # | Problem | LeetCode | Key Pattern |
+|---|---|---|---|
+| 1 | Max Sum Subarray of size K | [GG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Sliding Window (Fixed Size) |
+| 2 | Minimum Size Subarray Sum | [LC 209](https://leetcode.com/problems/minimum-size-subarray-sum/) | Sliding Window (Variable Size) |
 
 ---
 
@@ -30,11 +35,8 @@ The goal of this repository is to document my DSA journey, understand the underl
 ### Two Pointers
 Using two indices to reduce unnecessary work and solve array problems efficiently.
 
-### Three Pointers
-Extending the two-pointer approach when merging or partitioning multiple regions of an array.
-
-### Dutch National Flag
-An in-place partitioning technique for problems involving three distinct categories of elements.
+### Sliding Window
+Using a dynamic range of elements to efficiently solve subarray and substring problems.
 
 ---
 
