@@ -30,6 +30,8 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 3 | Longest Substring with K Uniques | [GG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/3.Longest%20Substring%20with%20K%20Uniques%20GG.cpp) |
 | 4 | Fruit Into Baskets | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/4.Fruit%20Into%20Baskets%20LC%20904.cpp) |
 | 5 | Longest Substring Without Repeating Characters | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/5.Longest%20Substring%20Without%20Repeating%20Characters%20LC%203.cpp) |
+| 6 | Longest Repeating Character Replacement | [LC 424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/6.Longest%20Repeating%20Character%20Replacement%20LC%20424.cpp) |
+| 7 | Max Consecutive Ones III | [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window (Variable Size) | [C++](./2.%20Sliding%20Window/7.Max%20Consecutive%20Ones%20III%20LC%201004.cpp) |
 
 ---
 
