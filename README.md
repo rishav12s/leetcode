@@ -39,9 +39,9 @@ The goal of this repository is to document my DSA journey, understand the underl
 
 | # | Problem | LeetCode | Key Pattern | Solution |
 |---|---|---|---|---|
-| 1 | 1.Linked List Cycle Detect | [LC 141](https://leetcode.com/problems/linked-list-cycle/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
-| 2 | Linked List Cycle Start Point | [LC 142](https://leetcode.com/problems/linked-list-cycle-ii/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
-| 3 | Middle of the Linked List | [LC 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
+| 1 | Linked List Cycle Detect | [LC 141](https://leetcode.com/problems/linked-list-cycle/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/1.Linked%20List%20Cycle%20Detect%20LC%20141.cpp) |
+| 2 | Linked List Cycle Start Point | [LC 142](https://leetcode.com/problems/linked-list-cycle-ii/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/2.Linked%20List%20Cycle%20Start%20Point%20LC%20142.cpp) |
+| 3 | Middle of the Linked List | [LC 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/3.Middle%20of%20the%20Linked%20List%20LC%20876.cpp) |
 
 ---
 
