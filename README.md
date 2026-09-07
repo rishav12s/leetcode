@@ -35,6 +35,14 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 8 | Subarray Product Less Than K | [LC 713](https://leetcode.com/problems/subarray-product-less-than-k/) | Sliding Window (Variable Size & Max Window) | [C++](./2.%20Sliding%20Window/8.Subarray%20Product%20Less%20Than%20K%20LC%20713.cpp) |
 | 9 | Minimum Window Substringn | [LC 76](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window (Variable Size & Min Window) | [C++](./2.%20Sliding%20Window/9.Minimum%20Window%20Substring%20LC%2076.cpp) |
 
+### Fast and Slow Pointers - Linked List
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | 1.Linked List Cycle Detect | [LC 141](https://leetcode.com/problems/linked-list-cycle/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
+| 2 | Linked List Cycle Start Point | [LC 142](https://leetcode.com/problems/linked-list-cycle-ii/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
+| 3 | Middle of the Linked List | [LC 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/) |
+
 ---
 
 ## 🧠 Patterns I'm Learning
