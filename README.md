@@ -35,13 +35,15 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 8 | Subarray Product Less Than K | [LC 713](https://leetcode.com/problems/subarray-product-less-than-k/) | Sliding Window (Variable Size & Max Window) | [C++](./2.%20Sliding%20Window/8.Subarray%20Product%20Less%20Than%20K%20LC%20713.cpp) |
 | 9 | Minimum Window Substringn | [LC 76](https://leetcode.com/problems/minimum-window-substring/) | Sliding Window (Variable Size & Min Window) | [C++](./2.%20Sliding%20Window/9.Minimum%20Window%20Substring%20LC%2076.cpp) |
 
-### Fast and Slow Pointers - Linked List
+### Fast and Slow Pointers
 
 | # | Problem | LeetCode | Key Pattern | Solution |
 |---|---|---|---|---|
-| 1 | Linked List Cycle Detect | [LC 141](https://leetcode.com/problems/linked-list-cycle/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/1.Linked%20List%20Cycle%20Detect%20LC%20141.cpp) |
-| 2 | Linked List Cycle Start Point | [LC 142](https://leetcode.com/problems/linked-list-cycle-ii/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/2.Linked%20List%20Cycle%20Start%20Point%20LC%20142.cpp) |
-| 3 | Middle of the Linked List | [LC 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers | [C++](3.%20Fast%20and%20Slow%20(Linked%20List)/3.Middle%20of%20the%20Linked%20List%20LC%20876.cpp) |
+| 1 | Linked List Cycle Detect | [LC 141](https://leetcode.com/problems/linked-list-cycle/) | Fast and Slow Pointers (Linked List) | [C++](3.%20Fast%20and%20Slow%20Pointers/1.Linked%20List%20Cycle%20Detect%20LC%20141.cpp) |
+| 2 | Linked List Cycle Start Point | [LC 142](https://leetcode.com/problems/linked-list-cycle-ii/) | Fast and Slow Pointers (Linked List) | [C++](3.%20Fast%20and%20Slow%20Pointers/2.Linked%20List%20Cycle%20Start%20Point%20LC%20142.cpp) |
+| 3 | Middle of the Linked List | [LC 876](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast and Slow Pointers (Linked List) | [C++](3.%20Fast%20and%20Slow%20Pointers/3.Middle%20of%20the%20Linked%20List%20LC%20876.cpp) |
+| 4 | Find the Duplicate Number | [LC 287](https://leetcode.com/problems/find-the-duplicate-number/description/) | Fast and Slow Pointers (Array) | [C++](3.%20Fast%20and%20Slow%20Pointers/4.Find%20the%20Duplicate%20Number%20LC%20287.cpp) |
+| 5 | Happy Number | [LC 202](https://leetcode.com/problems/happy-number/) | Fast and Slow Pointers (Number) | [C++](3.%20Fast%20and%20Slow%20Pointers/5.Happy%20Number%20LC202.cpp) |
 
 ---
 
