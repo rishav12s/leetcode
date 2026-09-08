@@ -55,6 +55,9 @@ Using two indices to reduce unnecessary work and solve array problems efficientl
 ### Sliding Window
 Using a dynamic range of elements to efficiently solve subarray and substring problems.
 
+### Fast & Slow Pointers
+Using two pointers moving at different speeds to efficiently detect cycles, find cycle start point or midpoint.
+
 ---
 
 ## 🛠️ Language
