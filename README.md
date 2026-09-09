@@ -45,6 +45,17 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 4 | Find the Duplicate Number | [LC 287](https://leetcode.com/problems/find-the-duplicate-number/description/) | Fast and Slow Pointers (Array) | [C++](3.%20Fast%20and%20Slow%20Pointers/4.Find%20the%20Duplicate%20Number%20LC%20287.cpp) |
 | 5 | Happy Number | [LC 202](https://leetcode.com/problems/happy-number/) | Fast and Slow Pointers (Number) | [C++](3.%20Fast%20and%20Slow%20Pointers/5.Happy%20Number%20LC202.cpp) |
 
+### Kadane
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | Maximum Sum Subarray | [LC 53](https://leetcode.com/problems/maximum-subarray/description/) | Kadane | [C++](4.%20Kadane/1.Maximum%20Subarray%20LC%2053.cpp) |
+| 2 | Minimum Sum Subarray | [GG](https://geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Kadane | [C++](4.%20Kadane/2.Minimum%20Sum%20Subarray%20GG.cpp) |
+| 3 | Maximum Product Subarray | [LC 152](https://leetcode.com/problems/maximum-product-subarray/description/) | Kadane | [C++](4.%20Kadane/3.Maximum%20Product%20Subarray%20LC%20152.cpp) |
+| 4 | Maximum Subarray Sum with One Deletion | [LC 1186](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) | Kadane | [C++](4.%20Kadane/4.Maximum%20Subarray%20Sum%20with%20One%20Deletion%20LC%201186.cpp) |
+| 5 | Maximum Absolute Sum of Any Subarray | [LC 1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | Kadane | [C++](4.%20Kadane/5.Maximum%20Absolute%20Sum%20of%20Any%20Subarray%20LC%201749.cpp) |
+| 6 | Maximum Sum Circular Subarray | [LC 918](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | Kadane | [C++](4.%20Kadane/6.Maximum%20Sum%20Circular%20Subarray%20LC%20918.cpp) |
+
 ---
 
 ## 🧠 Patterns I'm Learning
@@ -57,6 +68,10 @@ Using a dynamic range of elements to efficiently solve subarray and substring pr
 
 ### Fast & Slow Pointers
 Using two pointers moving at different speeds to efficiently detect cycles, find cycle start point or midpoint.
+
+### Kadane
+
+Efficiently finds the best(max/min) answer(sum/product) of a contiguous subarray by tracking the best subarray ending at each position.
 
 ---
 
