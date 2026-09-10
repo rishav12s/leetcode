@@ -56,6 +56,13 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 5 | Maximum Absolute Sum of Any Subarray | [LC 1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | Kadane | [C++](4.%20Kadane/5.Maximum%20Absolute%20Sum%20of%20Any%20Subarray%20LC%201749.cpp) |
 | 6 | Maximum Sum Circular Subarray | [LC 918](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | Kadane | [C++](4.%20Kadane/6.Maximum%20Sum%20Circular%20Subarray%20LC%20918.cpp) |
 
+### Prefix Sum
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | Find Pivot Index | [LC 724](https://leetcode.com/problems/find-pivot-index/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/1.Find%20Pivot%20Index%20LC%20724.cpp) |
+| 2 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/2.Subarray%20Sum%20Equals%20K%20LC%20560.cpp) |
+
 ---
 
 ## 🧠 Patterns I'm Learning
