@@ -62,6 +62,14 @@ The goal of this repository is to document my DSA journey, understand the underl
 |---|---|---|---|---|
 | 1 | Find Pivot Index | [LC 724](https://leetcode.com/problems/find-pivot-index/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/1.Find%20Pivot%20Index%20LC%20724.cpp) |
 | 2 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/2.Subarray%20Sum%20Equals%20K%20LC%20560.cpp) |
+| 3 | Subarray Sums Divisible by K | [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/3.Subarray%20Sums%20Divisible%20by%20K%20LC%20974.cpp) |
+| 4 | Contiguous Array | [LC 525](https://leetcode.com/problems/contiguous-array/description/) | Prefix Sum | [C++](5.%20Prefix%20Sum/4.Contiguous%20Array%20LC%20525.cpp) |
+
+### Merge Intervals
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | Merge Intervals | [LC 56](https://leetcode.com/problems/merge-intervals/description/) | Merge Intervals | [C++](6.%20Merge%20Intervals/1.Merge%20Intervals%20LC%2056.cpp) |
 
 ---
 
@@ -79,6 +87,14 @@ Using two pointers moving at different speeds to efficiently detect cycles, find
 ### Kadane
 
 Efficiently finds the best(max/min) answer(sum/product) of a contiguous subarray by tracking the best subarray ending at each position.
+
+### Prefix Sum
+
+Precomputing cumulative sums to answer range/subarray sum queries efficiently.
+
+### Merge Intervals
+
+Sorting intervals and merging overlapping ranges into a single continuous interval.
 
 ---
 
