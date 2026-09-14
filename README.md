@@ -70,6 +70,10 @@ The goal of this repository is to document my DSA journey, understand the underl
 | # | Problem | LeetCode | Key Pattern | Solution |
 |---|---|---|---|---|
 | 1 | Merge Intervals | [LC 56](https://leetcode.com/problems/merge-intervals/description/) | Merge Intervals | [C++](6.%20Merge%20Intervals/1.Merge%20Intervals%20LC%2056.cpp) |
+| 2 | Insert Interval | [LC 57](https://leetcode.com/problems/insert-interval/description/) | Merge Intervals | [C++](6.%20Merge%20Intervals/2.Insert%20Interval%20LC%2057.cpp) |
+| 3 | Interval List Intersection | [LC 986](https://leetcode.com/problems/interval-list-intersections/description/) | Merge Intervals & Two Pointers | [C++](6.%20Merge%20Intervals/3.Interval%20List%20Intersection%20LC%20986.cpp) |
+| 4 | Overlapping Intervals | [GG](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Merge Intervals | [C++](6.%20Merge%20Intervals/4.Overlapping%20Intervals%20GG.cpp) |
+| 5 | Min Meeting Rooms | [GG](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | Merge Intervals & Two Pointers | [C++](6.%20Merge%20Intervals/5.Min%20Meeting%20Rooms%20GG.cpp) |
 
 ---
 
