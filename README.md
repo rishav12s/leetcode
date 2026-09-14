@@ -6,7 +6,7 @@ The goal of this repository is to document my DSA journey, understand the underl
 
 ---
 
-## 📂 Problems Solved
+## 📂 Problems Solved --> 38 (31 LC/7 GG) 
 
 ### 2 Pointers
 
