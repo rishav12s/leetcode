@@ -6,7 +6,7 @@ The goal of this repository is to document my DSA journey, understand the underl
 
 ---
 
-## 📂 Problems Solved → 37 (31 LC/6 GG) 
+## 📂 Problems Solved → 46 (40 LC/6 GG) 
 
 ### 2 Pointers
 
@@ -74,6 +74,25 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 3 | Interval List Intersection | [LC 986](https://leetcode.com/problems/interval-list-intersections/description/) | Merge Intervals & Two Pointers | [C++](6.%20Merge%20Intervals/3.Interval%20List%20Intersection%20LC%20986.cpp) |
 | 4 | Overlapping Intervals | [GG](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Merge Intervals | [C++](6.%20Merge%20Intervals/4.Overlapping%20Intervals%20GG.cpp) |
 | 5 | Min Meeting Rooms | [GG](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | Merge Intervals & Two Pointers | [C++](6.%20Merge%20Intervals/5.Min%20Meeting%20Rooms%20GG.cpp) |
+
+### Stack
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | Remove All Adjacent Duplicates In String | [LC 1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | Stack | [C++](7.%20Stack/1.Remove%20All%20Adjacent%20Duplicates%20In%20String%20LC%201047.cpp) |
+| 2 | Valid Parentheses | [LC 20](https://leetcode.com/problems/valid-parentheses/description/) | Stack | [C++](7.%20Stack/2.Valid%20Parentheses%20LC20%20.cpp) |
+| 3 | Daily Temperatures | [LC 739](https://leetcode.com/problems/daily-temperatures/) | Stack | [C++](7.%20Stack/3.Daily%20Temperatures%20LC%20739.cpp) |
+| 4 | Next Greater Element II | [LC 503](https://leetcode.com/problems/next-greater-element-ii/description/) | Stack | [C++](7.%20Stack/4.Next%20Greater%20Element%20II%20LC%20503.cpp) |
+| 5 | Remove All Adjacent Duplicates in String II | [1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Stack | [C++](7.%20Stack/5.Remove%20All%20Adjacent%20Duplicates%20in%20String%20II%20LC%201209.cpp) |
+
+### Hashmaps
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | First Unique Character in String | [LC 387](https://leetcode.com/problems/first-unique-character-in-a-string/) | Hashmaps | [C++](8.%20Hashmaps/1.First%20Unique%20Character%20in%20String%20LC%20387.cpp) |
+| 2 | Ransom Note | [LC 383](https://leetcode.com/problems/ransom-note/) | Hashmaps | [C++](8.%20Hashmaps/2.Ransom%20Note%20LC%20383.cpp) |
+| 3 | Maximum Number of Balloons | [LC 1189](https://leetcode.com/problems/maximum-number-of-balloons/) | Hashmaps | [C++](8.%20Hashmaps/3.Maximum%20Number%20of%20Balloons%20LC%201189.cpp) |
+| 4 | Longest Palindrome | [LC 409](https://leetcode.com/problems/longest-palindrome/) | Hashmaps | [C++](8.%20Hashmaps/4.Longest%20Palindrome%20LC%20409.cpp) |
 
 ---
 
