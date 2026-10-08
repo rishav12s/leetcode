@@ -94,7 +94,7 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 3 | Maximum Number of Balloons | [LC 1189](https://leetcode.com/problems/maximum-number-of-balloons/) | Hashmaps | [C++](8.%20Hashmaps/3.Maximum%20Number%20of%20Balloons%20LC%201189.cpp) |
 | 4 | Longest Palindrome | [LC 409](https://leetcode.com/problems/longest-palindrome/) | Hashmaps | [C++](8.%20Hashmaps/4.Longest%20Palindrome%20LC%20409.cpp) |
 
-### **Linked List Reversal**
+### Linked List Reversal
 
 | # | Problem | LeetCode | Key Pattern | Solution |
 |---|---|---|---|---|
