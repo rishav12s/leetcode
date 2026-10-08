@@ -1,19 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-class Solution {
-  public:
-    int minMeetingRooms(vector<int> &start, vector<int> &end) {
-        sort(start.begin(),start.end());
-        sort(end.begin(),end.end());
-        int res=0,r=0,i=0,j=0;
-        int n=start.size();
-        while(i<n)
+class Solution
+{
+public:
+    int minMeetingRooms(vector<int> &start, vector<int> &end)
+    {
+        sort(start.begin(), start.end());
+        sort(end.begin(), end.end());
+        int res = 0, r = 0, i = 0, j = 0;
+        int n = start.size();
+        while (i < n)
         {
-            if(start[i]<end[j])
+            if (start[i] < end[j])
             {
                 r++;
-                res=max(res,r);
+                res = max(res, r);
                 i++;
             }
             else
@@ -23,11 +25,8 @@ class Solution {
             }
         }
         return res;
-
     }
 };
-
-
 
 int main()
 {

@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct ListNode {
+struct ListNode
+{
     int val;
     ListNode *next;
     ListNode() : val(0), next(nullptr) {}
@@ -9,22 +10,23 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-class Solution {
+class Solution
+{
 public:
-    ListNode* reverseList(ListNode* head) {
-        if(head==nullptr)
+    ListNode *reverseList(ListNode *head)
+    {
+        if (head == nullptr)
             return nullptr;
-        ListNode* curr=head;
-        ListNode* prev=nullptr;
-        ListNode* nex=nullptr;
-        while(curr!=nullptr)
+        ListNode *curr = head;
+        ListNode *prev = nullptr;
+        ListNode *nex = nullptr;
+        while (curr != nullptr)
         {
-            nex=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=nex;
+            nex = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nex;
         }
         return prev;
-
     }
 };

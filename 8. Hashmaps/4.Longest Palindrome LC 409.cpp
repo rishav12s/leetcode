@@ -1,49 +1,51 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    int longestPalindrome(string s) {
-        int res=0;
-        int n=s.size();
-        unordered_map <char,int> have;
-        for(int i=0;i<n;i++)
+    int longestPalindrome(string s)
+    {
+        int res = 0;
+        int n = s.size();
+        unordered_map<char, int> have;
+        for (int i = 0; i < n; i++)
         {
             have[s[i]]++;
         }
-        bool od=false;
+        bool od = false;
         int val;
-        for(auto x:have)
+        for (auto x : have)
         {
-            val=x.second;
-            if(val%2==0)
+            val = x.second;
+            if (val % 2 == 0)
             {
-                res+=val;
+                res += val;
             }
             else
             {
-                od=true;
+                od = true;
             }
         }
-        
-        if(od==false)
+
+        if (od == false)
         {
             return res;
         }
-        else {
-            for(auto x:have)
+        else
+        {
+            for (auto x : have)
             {
-                val=x.second;
-                if(val%2==1)
+                val = x.second;
+                if (val % 2 == 1)
                 {
-                    res+=val-1;
+                    res += val - 1;
                 }
             }
         }
-        return res+1;
+        return res + 1;
     }
 };
-
 
 int main()
 {

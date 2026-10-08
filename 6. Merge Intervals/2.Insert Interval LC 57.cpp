@@ -29,24 +29,24 @@ public:
     vector<vector<int>> insert(vector<vector<int>> &intervals, vector<int> &newInterval)
     {
         vector<vector<int>> res;
-        int i=0;
+        int i = 0;
         int n = intervals.size();
-        bool insert=false;
+        bool insert = false;
         int start;
-        //insert in sorted intervals
-        while(i<n)
+        // insert in sorted intervals
+        while (i < n)
         {
-            start=intervals[i][0];
-            if(insert==false && start>=newInterval[0])
+            start = intervals[i][0];
+            if (insert == false && start >= newInterval[0])
             {
                 res.push_back(newInterval);
-                insert=true;
+                insert = true;
             }
             res.push_back(intervals[i++]);
         }
-        if(insert==false) //insert at end of intervals as newInterval is largest
+        if (insert == false) // insert at end of intervals as newInterval is largest
             res.push_back(newInterval);
-    
+
         res = mergeintervals(res);
         return res;
     }
