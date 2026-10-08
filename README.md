@@ -94,6 +94,16 @@ The goal of this repository is to document my DSA journey, understand the underl
 | 3 | Maximum Number of Balloons | [LC 1189](https://leetcode.com/problems/maximum-number-of-balloons/) | Hashmaps | [C++](8.%20Hashmaps/3.Maximum%20Number%20of%20Balloons%20LC%201189.cpp) |
 | 4 | Longest Palindrome | [LC 409](https://leetcode.com/problems/longest-palindrome/) | Hashmaps | [C++](8.%20Hashmaps/4.Longest%20Palindrome%20LC%20409.cpp) |
 
+### **Linked List Reversal**
+
+| # | Problem | LeetCode | Key Pattern | Solution |
+|---|---|---|---|---|
+| 1 | Reverse Linked List | [LC 206](https://leetcode.com/problems/reverse-linked-list/) | Linked List Reversal | [C++](9.%20Linked%20List%20Reversal/1.Linked%20List%20Reversal%20LC%20206.cpp) |
+| 2 | Reverse Linked List II | [LC 92](https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List Reversal | [C++](9.%20Linked%20List%20Reversal/2.Reverse%20Sub%20List%20LC%2092.cpp) |
+| 3 | Swap Nodes in Pairs | [LC 24](https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List Reversal | [C++](9.%20Linked%20List%20Reversal/3.Reverse%20in%20Pairs%20LC%2024.cpp) |
+| 4 | Reverse Nodes in k-Group | [LC 25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Linked List Reversal | [C++](9.%20Linked%20List%20Reversal/4.Reverse%20in%20K-Groups%20LC%2025.cpp) |
+| 5 | Rotate List | [LC 61](https://leetcode.com/problems/rotate-list/) | Linked List Reversal | [C++](9.%20Linked%20List%20Reversal/5.Rotate%20Linked%20List%20LC%2061.cpp) |
+
 ---
 
 ## 🧠 Patterns I'm Learning
